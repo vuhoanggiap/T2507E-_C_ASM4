@@ -25,7 +25,8 @@ int main() {
 		a = 0;
 		printf("%d",a);
 	}
-
+	printf("So dao nguoc cua %d la: %d\n", original, a);
     return 0;
 }
+
 
